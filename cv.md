@@ -3,8 +3,8 @@
 ---
 
 ## Contacts
-- **Location:** Belarus 
-- **Email:** [karting2018bk.ru@gmail.com](karting2018bk.ru@gmail.com)
+- **Location:** Belarus
+- **Email:** [karting2018bk.ru@gmail.com](mailto:karting2018bk.ru@gmail.com)
 - **Telegram** [@lanqes](https://t.me/lanqes)
 - **GitHub:** [sildory](https://github.com/sildory)
 
