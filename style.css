@@ -1,0 +1,96 @@
+body {
+      font-family: Arial, sans-serif;
+        background-color: #f0f2f5;
+          color: #333;
+            margin: 0;
+              padding: 20px;
+              }
+
+              .container {
+                max-width: 800px;
+                  margin: 0 auto;
+                    background-color: #fff;
+                      padding: 25px;
+                        border-radius: 10px;
+                          box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+                          }
+
+                          header {
+                            text-align: center;
+                            }
+
+                            .avatar {
+                              width: 120px;
+                                height: 120px;
+                                  border-radius: 50%;
+                                    object-fit: cover;
+                                      margin-bottom: 10px;
+                                      }
+
+                                      h1 {
+                                        color: #2c3e50;
+                                          margin-bottom: 5px;
+                                          }
+
+                                          .job-title {
+                                            font-size: 1.1em;
+                                              color: #666;
+                                                margin-bottom: 20px;
+                                                }
+
+                                                h2 {
+                                                  color: #2d6cdf;
+                                                    margin-bottom: 10px;
+                                                    }
+
+                                                    section {
+                                                      margin-bottom: 25px;
+                                                        padding-bottom: 15px;
+                                                          border-bottom: 1px solid #ddd;
+                                                          }
+
+                                                          ul {
+                                                            list-style: none;
+                                                              padding-left: 0;
+                                                              }
+
+                                                              ul li {
+                                                                margin-bottom: 6px;
+                                                                }
+
+                                                                a {
+                                                                  color: #0077cc;
+                                                                    text-decoration: none;
+                                                                    }
+
+                                                                    a:hover {
+                                                                      text-decoration: underline;
+                                                                      }
+
+                                                                      pre {
+                                                                        background-color: #f8f8f8;
+                                                                          padding: 15px;
+                                                                            border-left: 4px solid #0077cc;
+                                                                              overflow-x: auto;
+                                                                                border-radius: 5px;
+                                                                                }
+
+                                                                                code {
+                                                                                  font-family: "Courier New", Courier, monospace;
+                                                                                    font-size: 0.95em;
+                                                                                    }
+
+                                                                                    footer {
+                                                                                      text-align: center;
+                                                                                        padding: 15px 0;
+                                                                                          margin-top: 40px;
+                                                                                            border-top: 1px solid #ccc;
+                                                                                              font-size: 0.9em;
+                                                                                                background-color: #fff;
+                                                                                                }
+
+                                                                                                .rs-logo {
+                                                                                                  height: 20px;
+                                                                                                    vertical-align: middle;
+                                                                                                      margin-left: 5px;
+                                                                                                      }
